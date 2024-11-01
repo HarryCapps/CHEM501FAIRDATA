@@ -28,5 +28,25 @@
                 "source": "MedlinePlus"
             }
         ]
-    }
+    },
+    "Molecule3" : 
+        {'CompoundName' : 'Semorphone',
+         'MolecularFormula' : 'C19H23NO5',
+         'inchikey' : 'PBGIBLLOMGURPS-GRGSLBFTSA-N',
+
+         'synonyms': [
+                {
+                'synonym': 'Semorphone [INN]',
+                'source': 'PubChem',
+                },
+                {
+                'synonym': 'N-(2-Methoxyethyl)noroxymorphone',
+                'source': 'PubChem',
+                },
+                {
+                'synonym': 'Mr-2264',
+                'source': 'PubChem',
+                }
+            ]  
+            }
 }
