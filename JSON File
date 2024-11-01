@@ -1,0 +1,32 @@
+{
+    "Molecule1": {
+        "CompoundName": "Lansoprazole",
+        "MolecularFormula": "C16H14F3N3O2S",
+        "inchikey": "InChI=1S/C16H14F3N3O2S/c1-10-13(20-7-6-14(10)24-9-16(17,18)19)8-25(23)15-21-11-4-2-3-5-12(11)22-15/h2-7H,8-9H2,1H3,(H,21,22)",
+        "synonyms": [
+            {
+                "synonym": "Iansoprazole",
+                "source": "PubChem"
+            },
+            {
+                "synonym": "103577-45-3",
+                "source": "PubChem"
+            },
+            {
+                "symonym": "Prevacid",
+                "source": "Pubchem"
+            }
+        ]
+    },
+    "Molecule2": {
+        "CompoundName": "Rifapentine",
+        "MolecularFormula": "C47H64N4O12",
+        "inchikey": "InChI=1S/C47H64N4O12/c1-24-13-12-14-25(2)46(59)49-37-32(23-48-51-20-18-50(19-21-51)31-15-10-11-16-31)41(56)34-35(42(37)57)40(55)29(6)44-36(34)45(58)47(8,63-44)61-22-17-33(60-9)26(3)43(62-30(7)52)28(5)39(54)27(4)38(24)53/h12-14,17,22-24,26-28,31,33,38-39,43,53-57H,10-11,15-16,18-21H2,1-9H3,(H,49,59)/b13-12+,22-17+,25-14-,48-23+/t24-,26+,27+,28+,33-,38-,39+,43+,47-/m0/s1",
+        "synonyms": [
+            {
+                "synonym": "Priftin",
+                "source": "MedlinePlus"
+            }
+        ]
+    }
+}
