@@ -8,15 +8,15 @@ Can we predict the activity of a compound within the human body?
 
 ### Essential
 
-* Compound InChI (string) <-- this is our unique identifier
+* Compound InChI (string) - acts as our unique identifier
 * Compound Smiles (string)
 * Compound InChI (string)
 * List of compound synonyms (and their type) (list of lists containing strings, e.g. [[name 1, research code], [name 2, IUPAC Name]])
 * Protein Target (list of lists), where protein target has a unique identifier of a UniProtKB accession, annotations also include protein family, aminmo acid sequences, and species.
 * Known binding affinities (IC50, list, same order as in the protein target, could also be a list of lists, e.g. [[target 1, affinity], [target 2, affinity]])
 
-### Nice to have
-
+### Additional
+* Synonyms (strings), sources
 * 2d mol file (string/blob)
 * known adverse effects (list)
 * Other measured attributes, e.g. Kd (list)
